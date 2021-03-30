@@ -7,3 +7,7 @@ breed = "Mixed"
 age = 4
 weight_lb = 55
 daily_walk = 2
+
+adopted = true
+male = false
+good_girl = true
